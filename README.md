@@ -10,7 +10,7 @@
 
 📁 " Project Folder Structure "
 
-🔴 1. Public Folder:- Below are folder inside the public folder basically public the frontendside and authentication.
+🔴 1. Public Folder:- Below are folder inside the public folder basically public the frontend side and authentication.
 a. auth.js file where all the authentication / validation done.
 b. auth.css file for styling the index.html file.
 c. client.js file for handling the chat functionality.
