@@ -1,12 +1,12 @@
 "Plaxonic CHAT-APP"
 
-✅ Project Features :-
-⚪ Use JWT Authentication for user signup and login authentication/verification.
-⚪ All chat messages save in the database in the messages with respective user id to identify the chats of specific user.
-⚪ End to End connection between two client using Socket.io.
-⚪ Teck Stack use in the Project :- Node.js, Express.js, MySQL, HTML, CSS.
+✅ " Project Features "
+⚪ 1. Use JWT Authentication for user signup and login authentication/verification.
+⚪ 2. All chat messages save in the database in the messages with respective user id to identify the chats of specific user.
+⚪ 3. End to End connection between two client using Socket.io.
+⚪ 4. Teck Stack use in the Project :- Node.js, Express.js, MySQL, HTML, CSS.
 
-" **********************************************\_\_\_********************************************** "
+---
 
 📁 " Project Folder Structure "
 
